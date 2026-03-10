@@ -1,6 +1,5 @@
 ### Overview
-wordpress-xmlrpc-user-enumeration is a Python tool that enumerates WordPress users across multiple attack vectors simultaneously: XML-RPC, REST API, and author page redirects. 
-It works even when individual methods are hardened or disabled, automatically falling back to available channels.
+Python script to enumerate WordPress users across multiple attack vectors simultaneously: XML-RPC, REST API, and author page redirects. 
 
 ### Features
 
